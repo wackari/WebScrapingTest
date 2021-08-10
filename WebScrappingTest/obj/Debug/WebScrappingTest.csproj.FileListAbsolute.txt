@@ -1,0 +1,10 @@
+/Users/marcorodriguez/Projects/WebScrappingTest/WebScrappingTest/bin/Debug/WebScrappingTest.exe
+/Users/marcorodriguez/Projects/WebScrappingTest/WebScrappingTest/bin/Debug/WebScrappingTest.pdb
+/Users/marcorodriguez/Projects/WebScrappingTest/WebScrappingTest/bin/Debug/HtmlAgilityPack.dll
+/Users/marcorodriguez/Projects/WebScrappingTest/WebScrappingTest/bin/Debug/HtmlAgilityPack.pdb
+/Users/marcorodriguez/Projects/WebScrappingTest/WebScrappingTest/bin/Debug/HtmlAgilityPack.xml
+/Users/marcorodriguez/Projects/WebScrappingTest/WebScrappingTest/obj/Debug/WebScrappingTest.csproj.AssemblyReference.cache
+/Users/marcorodriguez/Projects/WebScrappingTest/WebScrappingTest/obj/Debug/WebScrappingTest.csproj.CoreCompileInputs.cache
+/Users/marcorodriguez/Projects/WebScrappingTest/WebScrappingTest/obj/Debug/WebScrappingTest.csproj.CopyComplete
+/Users/marcorodriguez/Projects/WebScrappingTest/WebScrappingTest/obj/Debug/WebScrappingTest.exe
+/Users/marcorodriguez/Projects/WebScrappingTest/WebScrappingTest/obj/Debug/WebScrappingTest.pdb
